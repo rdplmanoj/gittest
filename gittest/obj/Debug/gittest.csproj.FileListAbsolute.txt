@@ -1,0 +1,11 @@
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\bin\Debug\gittest.exe
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\bin\Debug\gittest.pdb
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\obj\Debug\gittest.csprojResolveAssemblyReference.cache
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\obj\Debug\gittest.Form1.resources
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\obj\Debug\gittest.Form2.resources
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\obj\Debug\gittest.Properties.Resources.resources
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\obj\Debug\gittest.csproj.GenerateResource.Cache
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\obj\Debug\gittest.exe
+c:\users\geuser\documents\visual studio 2013\Projects\gittest\gittest\obj\Debug\gittest.pdb
+D:\GIT\ARMSPRO\gittest\gittest\obj\Debug\gittest.exe
+D:\GIT\ARMSPRO\gittest\gittest\obj\Debug\gittest.pdb
